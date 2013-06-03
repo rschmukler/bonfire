@@ -1,0 +1,22 @@
+{
+  "name": "bonfire",
+  "version": "0.0.0",
+  "description": "Throw your database to the flames.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rschmukler/bonfire"
+  },
+  "keywords": [
+    "mongo",
+    "collection",
+    "websockets",
+    "real-time",
+    "REST"
+  ],
+  "author": "Ryan Schmukler <'ryan@slingingcode.dev'>",
+  "license": "MIT"
+}
